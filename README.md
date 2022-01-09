@@ -2,6 +2,7 @@
 - 👀 I’m interested in Front-End Development
 - 🌱 I’m currently learning React,SVG editing and how to use git
     (I used to use FTP for collaborative work but Apparently I gotta know how to use git)
+- ✨ Try to commit At least 3 times a week
 - 📫 How to reach me mwmstinc@gmail.com
 
 <!---
